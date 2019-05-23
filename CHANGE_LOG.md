@@ -1,5 +1,8 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0515: 1.2 (nli2work) for KSP 1.1.2
+	+ new Grappler Jr. Service Bay w/ Grappler Arm w/ External Command seat.
+	+ added JSIAdvTransparentPod support.
 * 2016-0505: 1.1.1 (nli2work) for KSP 1.1.2
 	+ maintenance update for KSP 1.1.2
 	+ adjustment for some dragCubes
