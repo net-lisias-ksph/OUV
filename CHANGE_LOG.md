@@ -1,5 +1,9 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0505: 1.1.1 (nli2work) for KSP 1.1.2
+	+ maintenance update for KSP 1.1.2
+	+ adjustment for some dragCubes
+	+ Config and Texture adjustments for KIS/KAS and JSIAdvTransparentPod
 * 2016-0424: 1.1 (nli2work) for KSP 1.1
 	+ maintenance update for KSP 1.1
 	+ Adjusted Service Bay for more space.
