@@ -1,5 +1,7 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0522: 1.2.2 (nli2work) for KSP 1.1.2
+	+ fixed config error prevented stack attachment to Grappler Jr.
 * 2016-0521: 1.2.1 (nli2work) for KSP 1.1.2
 	+ adjusted Grappler JR grapple angle to +/- 60 degrees.
 	+ added EVA tether (KAS winch) for Grappler JR. part; will load if KAS present
