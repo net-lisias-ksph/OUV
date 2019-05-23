@@ -1,5 +1,11 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0328: 1.0.9 (nli2work) for KSP 1.0.5
+	+ Grabber Core reduced SAS to 20; Increased max RCS power to 15 w/ default RCS power at 5%
+	+ Helper Drones, remote drones with integrated RCS to help maneuver large objects. Max RCS power 8; default power at 10%.
+	+ Adaptor Carrier, transitional part, Forward grabber unit, carriage compartment for up to 4 Helper Drones, 160 Mono capacity. Adjusted RCS thruster locations reduce torque while translating with RCS.
+	+ Added indicator for engine reverse thrust  mode.
+	+ Foward Adaptor, with service bay, will be phased out in another update or two.
 * 2016-0315: 1.0.8 (nli2work) for KSP 1.0.5
 	+ Small useability update: Adjusted attachment areas on Adaptor. Indicator icons display Docking or Grappling mode. Visible from outside and IVA
 * 2016-0313: 1.0.7 (nli2work) for KSP 1.0.5
