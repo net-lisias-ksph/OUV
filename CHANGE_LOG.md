@@ -1,5 +1,10 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0521: 1.2.1 (nli2work) for KSP 1.1.2
+	+ adjusted Grappler JR grapple angle to +/- 60 degrees.
+	+ added EVA tether (KAS winch) for Grappler JR. part; will load if KAS present
+	+ added top stack node for attaching command parts instead of using external command seat.
+	+ specified controlTransforms for all docking/grappler parts, should be transparent in game.
 * 2016-0515: 1.2 (nli2work) for KSP 1.1.2
 	+ new Grappler Jr. Service Bay w/ Grappler Arm w/ External Command seat.
 	+ added JSIAdvTransparentPod support.
