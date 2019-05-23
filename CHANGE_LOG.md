@@ -1,5 +1,7 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0315: 1.0.8 (nli2work) for KSP 1.0.5
+	+ Small useability update: Adjusted attachment areas on Adaptor. Indicator icons display Docking or Grappling mode. Visible from outside and IVA
 * 2016-0313: 1.0.7 (nli2work) for KSP 1.0.5
 	+ Fixed Push Adaptor Docking Port, now docks any ports of node type size1, 2, or 3. Docking port also works as grappler node, be sure to "Release" before attempting to grab. Thsi grappler unit has very narrow tolerances for alignment and very low pivot range, plan accordingly.
 	+ Fixed Command pod KAS variant, nose winch now ejects correctly without being blocked.
