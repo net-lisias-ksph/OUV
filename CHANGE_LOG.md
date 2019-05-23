@@ -1,5 +1,10 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0424: 1.1 (nli2work) for KSP 1.1
+	+ maintenance update for KSP 1.1
+	+ Adjusted Service Bay for more space.
+	+ Firespitter no longer required. Texture and fuel switch with ModuleManager.
+	+ Some additional surface attach area for Adaptor/Carrier
 * 2016-0329: 1.0.9.1 (nli2work) for KSP 1.0.5
 	+ Fixed some collider issues, for carrier adaptor, where you can become stuck on Size 1 Docking Port after grabbing with perfect alignment.
 	+ Added visual indicator for the carrier adaptor, and orientation switcher (for when you use it with Drone or Command Pod). Red=Left; Green=Right; Yellow=Up.
