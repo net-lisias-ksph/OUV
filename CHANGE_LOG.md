@@ -1,5 +1,9 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0523: 1.2.3 (nli2work) for KSP 1.1.2
+	+ fixed some scale issues with Grappler JR.
+	+ adjusted arm geometry for shorter reach.
+	+ adjusted command seat ejection angle to avoid teleporting kerbal.
 * 2016-0522: 1.2.2 (nli2work) for KSP 1.1.2
 	+ fixed config error prevented stack attachment to Grappler Jr.
 * 2016-0521: 1.2.1 (nli2work) for KSP 1.1.2
