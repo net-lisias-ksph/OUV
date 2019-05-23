@@ -1,5 +1,8 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0329: 1.0.9.1 (nli2work) for KSP 1.0.5
+	+ Fixed some collider issues, for carrier adaptor, where you can become stuck on Size 1 Docking Port after grabbing with perfect alignment.
+	+ Added visual indicator for the carrier adaptor, and orientation switcher (for when you use it with Drone or Command Pod). Red=Left; Green=Right; Yellow=Up.
 * 2016-0328: 1.0.9 (nli2work) for KSP 1.0.5
 	+ Grabber Core reduced SAS to 20; Increased max RCS power to 15 w/ default RCS power at 5%
 	+ Helper Drones, remote drones with integrated RCS to help maneuver large objects. Max RCS power 8; default power at 10%.
