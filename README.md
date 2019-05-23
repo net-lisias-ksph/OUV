@@ -1,10 +1,10 @@
-# Orbital Utility Vehicle :: UNNOFICIAL
+# Orbital Utility Vehicle :: Archive
 
 This is a unofficial, non authorized repository for **Orbital Utility Vehicle** for historical reference and troubleshooting.
 
 
 ## Content
-* [Binaries](https://github.com/net-lisias-ksph/OrbitalUtilityVehicle/tree/Archive)
+* [Binaries](./Archive)
 * Sources
 	+ WiP
 * [Change Log](./CHANGE_LOG.md)
