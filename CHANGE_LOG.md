@@ -1,5 +1,9 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2016-0524: 1.2.4 (nli2work) for KSP 1.1.2
+	+ fixed config issues for push adaptors
+	+ fixed reversing navball on command pod after switching away then back.
+	+ adjusted some configs on staging may improve useability.
 * 2016-0523: 1.2.3 (nli2work) for KSP 1.1.2
 	+ fixed some scale issues with Grappler JR.
 	+ adjusted arm geometry for shorter reach.
