@@ -1,5 +1,7 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2018-1202: 1.2.5.1 (Starwaster) for KSP 1.5.1
+	+ Fixed texture used by internals
 * 2018-1201: 1.2.5 (Starwaster) for KSP 1.5.1
 	+ Fixed issues with parts not compiling with KSP 1.5.1
 	+ Changed mod file structure; mod folder moved to GameData so unpack contents to KSP root folder.
