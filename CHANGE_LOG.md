@@ -1,5 +1,8 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2018-1201: 1.2.5 (Starwaster) for KSP 1.5.1
+	+ Fixed issues with parts not compiling with KSP 1.5.1
+	+ Changed mod file structure; mod folder moved to GameData so unpack contents to KSP root folder.
 * 2016-0524: 1.2.4 (nli2work) for KSP 1.1.2
 	+ fixed config issues for push adaptors
 	+ fixed reversing navball on command pod after switching away then back.
