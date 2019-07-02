@@ -18,7 +18,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 
-**Command Pod**, roughly same size as Mk1; will work on IVA when I get my hands on the new PartTools. Now has data transmitter built-in. Two variants depending on other active mods.
+**Command Pod**, roughly same size as Mk1; Looking for an IVA Has data transmitter built-in. Two variants depending on other active mods.
 
        * KAS: adds front mounted winch unit w 30 meter cable.
        * SCANSat: adds small SCANSat network uplink unit w/ BTDT scanner and MapTraq modules.
