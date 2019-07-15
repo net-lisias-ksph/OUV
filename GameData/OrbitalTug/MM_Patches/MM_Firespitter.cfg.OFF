@@ -1,4 +1,4 @@
-@PART[OrbitalTugCore]:NEEDS[Firespitter&!B9PartSwitch&!ModularFuelTanks]
+@PART[OrbitalTugCore]:NEEDS[Firespitter&!B9PartSwitch&!ModularFuelTanks]:FOR[OrbitalTug]
 {
 	!RESOURCE[MonoPropellant]{}
 	!RESOURCE[ElectricCharge]{}
@@ -13,7 +13,7 @@
 		tankCost = 0;0
 	}
 }
-@PART[OrbitalTugCore]:NEEDS[Firespitter&!B9PartSwitch]
+@PART[OrbitalTugCore]:NEEDS[Firespitter&!B9PartSwitch]:FOR[OrbitalTug]
 {	
 	MODULE
 	{
@@ -31,7 +31,7 @@
 	}
 }
 
-@PART[OrbitalGrapplerJR]:NEEDS[Firespitter&!B9PartSwitch]
+@PART[OrbitalGrapplerJR]:NEEDS[Firespitter&!B9PartSwitch]:FOR[OrbitalTug]
 {    
     MODULE
     {
@@ -49,7 +49,7 @@
     }
 }
     
-@PART[DronePod]:NEEDS[Firespitter&!B9PartSwitch]
+@PART[DronePod]:NEEDS[Firespitter&!B9PartSwitch]:FOR[OrbitalTug]
 {
 	MODULE
 	{
@@ -67,7 +67,7 @@
 	}
 }
 
-@PART[OrbitalTugPod]:NEEDS[Firespitter&!B9PartSwitch]
+@PART[OrbitalTugPod]:NEEDS[Firespitter&!B9PartSwitch]:FOR[OrbitalTug]
 {
 	
 	MODULE

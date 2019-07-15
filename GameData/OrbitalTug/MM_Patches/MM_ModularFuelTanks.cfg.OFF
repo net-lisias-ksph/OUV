@@ -1,6 +1,6 @@
 
 // This is needed if the Firespitter fuel switch is added
-@PART[OrbitalTugCore]:NEEDS[ModularFuelTanks&!B9PartSwitch]
+@PART[OrbitalTugCore]:NEEDS[ModularFuelTanks&!B9PartSwitch]:FOR[OrbitalTug]
 {
 	!MODULE[FSfuelSwitch]{}
 
