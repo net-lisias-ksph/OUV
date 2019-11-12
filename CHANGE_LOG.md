@@ -1,5 +1,10 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2019-0814: 1.3.0.8 (linuxgurugamer) for KSP 1.7.0
+	+ Correct MP thrust from 36 to 26
+	+ Remove extranious brace in changelog
+	+ Correct from runningLFO to runningLF in KSPi engine version
+	+ Update OrbitalTugPod.cfg
 * 2019-0811: 1.3.0.7 (linuxgurugamer) for KSP 1.7.0
 	+ Thanks to forum user @FreeThinker for this
 		- Fixed compatibility with KSPIE
