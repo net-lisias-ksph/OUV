@@ -1,5 +1,9 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2019-0625: 1.3.0.5 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
+	+ Merge pull requests from zer0Kerbal
+	+ Added MM_BurstAtomicThrustModule patch
+	+ Fixed MM_KURS patch for the Grappler Jr.
 * 2019-0625: 1.3.0 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
 	+ Merged patches by @Deimos Rast and @LeLeon
 	+ Merged patch by @Starwaster
