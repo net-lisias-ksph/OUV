@@ -1,5 +1,9 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2019-0924: 1.3.0.9 (linuxgurugamer) for KSP 1.7.0
+	+ Update OrbitalTugPod.cfg
+	+ small fixes
+	+ Put full license text into License.md
 * 2019-0814: 1.3.0.8 (linuxgurugamer) for KSP 1.7.0
 	+ Correct MP thrust from 36 to 26
 	+ Remove extranious brace in changelog
