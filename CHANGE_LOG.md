@@ -1,5 +1,8 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2019-0811: 1.3.0.7 (linuxgurugamer) for KSP 1.7.0
+	+ Thanks to forum user @FreeThinker for this
+		- Fixed compatibility with KSPIE
 * 2019-0804: 1.3.0.6 (linuxgurugamer) for KSP 1.7.0
 	+ Full release, see the changelog for details
 * 2019-0625: 1.3.0.5 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
