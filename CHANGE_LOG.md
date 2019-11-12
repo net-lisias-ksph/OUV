@@ -1,5 +1,6 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2019-0612: 1.3.0.2 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
 * 2019-0604: 1.3.0.1 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
 	+ All these changes have been done by forum user @zer0kerbal
 	+ KERBALCHANGELOG
