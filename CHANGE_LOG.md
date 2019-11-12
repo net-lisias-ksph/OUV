@@ -1,5 +1,12 @@
 # Orbital Utility Vehicle :: Change Log
 
+* 2019-0625: 1.3.0 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
+	+ Merged patches by @Deimos Rast and @LeLeon
+	+ Merged patch by @Starwaster
+	+ Added B9PartSwitcher code, will be primary if it's there
+	+ Added jenkins.txt
+	+ Added .version file
+	+ New branch made to separate patches from parts as a test
 * 2019-0618: 1.3.0.3 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
 * 2019-0612: 1.3.0.2 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
 * 2019-0604: 1.3.0.1 (linuxgurugamer) for KSP 1.7.0 PRE-RELEASE
